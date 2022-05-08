@@ -1,37 +1,35 @@
-## 这是我的第一个网页
 
-You can use the [editor on GitHub](https://github.com/2467178906/myfiresweb/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>无标题文档</title>
+	<style type="text/css">
+		span {background-position:center;
+			display: block;
+			text-align: center;display:inline-block;10px;border:dashed 1.5px #000000;border: 1.5px dashed ;border-top-right-radius: 20px;
+		border-radius: 10px 10px 0px 0px}
+		ul li{list-style-type: none}
+		h1{text-align: center}
+		ul{background-color:beige;margin:0px;border: 1.5px dashed #000000;border-radius: 10px 10px 0px 0px}
+		img{border-bottom-left-radius: 20px;margin: 3px}
+		img:hover{opacity: 0.7}
+		
+		
+	</style>
+</head>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/2467178906/myfiresweb/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<body>
+	
+		<ul>
+			<h1>湖北菜</h1>
+	<span id="a1"><li><img src="鲍汁扒时蔬.jpg" width="150" height="104" alt=""/></li>鲍汁扒时蔬</span>
+	<span id="a2"><li><img src="潮州牛肉丸.jpg" width="150" height="104" alt=""/></li>潮州牛肉丸</span>
+<span id="a3"><li><img src="醋熘山药.jpg" width="150" height="104" alt=""/></li>醋熘山药</span>
+<span id="a4"><li><img src="鹅肝酱烧丝瓜.jpg" width="150" height="104" alt=""/></li>鹅肝酱烧丝瓜</span>
+<span id="a5"><li><img src="翡翠藕盒.jpg" width="150" height="104" alt=""/></li>翡翠藕盒</span>
+<span id="a6"><li><img src="风味香辣虾.jpg" width="150" height="104" alt=""/></li>风味香辣虾</span>
+		</ul>
+	
+</body>
+</html>
